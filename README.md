@@ -1,1 +1,1 @@
-- simple console application, builds executable jar with dependencies (plugin "java-library-distribution")
+
