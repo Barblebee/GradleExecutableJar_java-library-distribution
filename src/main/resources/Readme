@@ -1,0 +1,3 @@
+- Simple project that calculates Levensthein distance for two strings.
+- Creates executable jar with dependency based on plugin: 'java-library-distribution';
+- plugin adds Class-Path for dependencies to manifest: lib/commons-text-1.8.jar lib/commons-lang3-3.9.jar
