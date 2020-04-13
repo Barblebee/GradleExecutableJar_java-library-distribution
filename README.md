@@ -1,1 +1,2 @@
-simple executable jar with plugin "java-library-distribution"
+- simple console application (text similarity)
+- builds executable jar with dependencies (plugin "java-library-distribution")
